@@ -1,0 +1,52 @@
+HP		200
+Lvl		1
+HPRegen		1
+MP		75
+MPRegen		0
+PrimAttr	1
+Agi		25
+Str		14
+Int		16
+Arm		-2
+HPCur		0
+MPCur		0
+MPRegen		0
+moveSpd		0
+turnRate	0
+atkSpd		0
+atkT		0
+Arm		0
+Atk		0
+MResist		0
+PResist		0
+SResist		0
+SpellAmp	0
+PrimAttr	0
+projSpd		0
+AgiGain		0
+StrGain		0
+IntGain		0
+vsnD		0
+vsnN		0
+atkRange	0
+Exp		0
+
+MeatHook
+125/130/135/140
+150/220/290/360
+27/22/17/12
+
+Rot
+0
+30/60/90/120
+0
+
+Flesh Heap
+0
+0
+0
+
+Dismember
+100/130/170
+60/90/120
+30/25/20
